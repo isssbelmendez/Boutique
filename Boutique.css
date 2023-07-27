@@ -1,0 +1,27 @@
+.encabezado{
+    width: 1295px; height: 20px;
+    margin: 0 auto;
+    border: 1px solid #9110e7;
+    background-color: #e4c6f8;
+    padding: 20px; 
+    border-radius: 1px;
+}
+
+
+
+.img{
+   
+    height:533;
+     width: 1336px;
+    }
+
+
+.footer{
+    text-align: center;
+    width: 1295px; height: 20px;
+    margin: 0 auto;
+     border: 1px solid #9110e7;
+     background-color: #e4c6f8;
+     padding: 20px; 
+     border-radius: 1px;
+}
